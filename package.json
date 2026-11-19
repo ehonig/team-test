@@ -1,0 +1,10 @@
+{
+  "name": "the-team-test",
+  "version": "1.0.0",
+  "description": "Fan recreation of the 2010 Swedish Armed Forces Team Test, with a small server for online play.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT",
+  "private": true
+}
